@@ -1,0 +1,25 @@
+## Data Legend
+Below is a brief description of each of the listed variables in the attribute table of the CSV file:
+- `GISJOIN`: GIS Join Match Code
+- `Year`: Date File Year
+- `STATE`: State Name
+- `STATEA`: State Code
+- `NAME_E`: Area Name
+- `TOTPOP`: Total population in 2010 Census
+- `WHITE`: White, population in 2010 Census
+- `BLACK`: Black, population in 2010 Census
+- `AI`: American Indian and Alaska Native, population in 2010 Census
+- `ASIAN`: Asian, population in 2010 Census
+- `NH_PI`: Native Hawaiian and Pacific Islander, population in 2010 Census
+- `OTHER`: Other race, population in 2010 Census
+- `2MORE`: Two or more races, population in 2010 Census
+- `2MORE_OTHER`: Two races including some other race population in 2010 Census
+- `3MORE`: Two races excluding some other race, and three or more races, population in 2010 Census
+- `TOTAL`: Population for whom poverty status is determined in 2010 Census
+- `<.50`: <.50 Ratio of Income to Poverty Level in the Past 12 Months, population in 2010 Census
+- `.50-.99`: .50-.99 Ratio of Income to Poverty Level in the Past 12 Months, population in 2010 Census
+- `1.00-1.24`: 1.00-1.24 Ratio of Income to Poverty Level in the Past 12 Months, population in 2010 Census
+- `1.25-1.49`: 1.25-1.49 Ratio of Income to Poverty Level in the Past 12 Months, population in 2010 Census
+- `1.50-1.84`: 1.50-1.84 Ratio of Income to Poverty Level in the Past 12 Months, population in 2010 Census
+- `1.85-1.99`: 1.85-1.99 Ratio of Income to Poverty Level in the Past 12 Months, population in 2010 Census
+- `>2.00`: >2.00 Ratio of Income to Poverty Level in the Past 12 Months, population in 2010 Census
