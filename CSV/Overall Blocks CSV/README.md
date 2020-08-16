@@ -10,7 +10,7 @@ Below is a brief description of each of the listed variables in the attribute ta
 - `TOTPOP`: Total population in 2010 Census
 - `WHITE`: White, population in 2010 Census
 - `BLACK`: Black, population in 2010 Census
-- `AI`: American Indian and Alaska Native, population in 2010 Census
+- `AMIN`: American Indian and Alaska Native, population in 2010 Census
 - `ASIAN`: Asian, population in 2010 Census
 - `NH_PI`: Native Hawaiian and Pacific Islander, population in 2010 Census
 - `OTHER`: Other race, population in 2010 Census
