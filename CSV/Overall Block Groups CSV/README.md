@@ -17,7 +17,8 @@ Below is a brief description of each of the listed variables in the attribute ta
 - `NH_PI`: Native Hawaiian and Pacific Islander, population in 2010 Census
 - `OTHER`: Other race, population in 2010 Census
 - `2MORE`: Two or more races, population in 2010 Census
-
+- `2MORE_OTHER`: Two races including some other race population in 2010 Census
+- `3MORE`: Two races excluding some other race, and three or more races, population in 2010 Census
 - `TOTAL`: Population for whom poverty status is determined in 2010 Census
 - `<.50`: <.50 Ratio of Income to Poverty Level in the Past 12 Months, population in 2010 Census
 - `.50-.99`: .50-.99 Ratio of Income to Poverty Level in the Past 12 Months, population in 2010 Census
@@ -26,6 +27,9 @@ Below is a brief description of each of the listed variables in the attribute ta
 - `1.50-1.84`: 1.50-1.84 Ratio of Income to Poverty Level in the Past 12 Months, population in 2010 Census
 - `1.85-1.99`: 1.85-1.99 Ratio of Income to Poverty Level in the Past 12 Months, population in 2010 Census
 - `>2.00`: >2.00 Ratio of Income to Poverty Level in the Past 12 Months, population in 2010 Census
+- `TOT_INCOME_POP`: Population 15 years and over in 2010 Census
+- `TOTHOUS`: Number of households in 2010 Census
+- `INCOME`: Aggregate income in the past 12 months (in 2010 inflation-adjusted dollars) in 2010 Census
 - `TOT K-5 (Modified)`: Scaled 5 to 9 years population in 2010 Census
 - `TOT 6-8 (Modified)`: Scaled 10 to 14 years population in 2010 Census
 - `TOT ELEM (Modified)`: Scaled 5 to 14 years population in 2010 Census
